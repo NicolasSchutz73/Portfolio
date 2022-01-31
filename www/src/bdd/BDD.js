@@ -27,7 +27,7 @@ const info = [
             'Is a student project realized in second year of DUT MIT. The goal of the project was to collect data from an API (weatherbit.io) using a PHP script, and to update the values of the document with JavaScript using AJAX. The goal of this project was to become familiar with APIs.',
         image: "api-meteo-img",
         tools: ' HTML | SCSS | jQuery | API Weatherbit.io | Github | WebStorm',
-        url: 'https://api-meteo.netlify.app/',
+        url: 'https://mmi-meteo.netlify.app/',
         urlText: 'View the project',
 
     },
