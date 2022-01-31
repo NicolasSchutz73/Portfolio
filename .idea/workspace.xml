@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fb8df571-6375-4e40-b27c-a8c41c41b1a6" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="23aoyIa1CSJYqgr4zSXvWigvA1t" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/www/src/assets/img" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\nicol\Desktop\Portfolio\www\src\assets\img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\nicol\Desktop\Portfolio\www\src\assets\img" />
+      <recent name="C:\Users\nicol\Desktop\Portfolio\www\src\bdd" />
+      <recent name="C:\Users\nicol\Desktop\Portfolio\www\src\assets" />
+      <recent name="C:\Users\nicol\Desktop\Portfolio\www\src\img" />
+      <recent name="C:\Users\nicol\Desktop\Portfolio\www\src" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fb8df571-6375-4e40-b27c-a8c41c41b1a6" name="Changes" comment="" />
+      <created>1641981816307</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1641981816307</updated>
+      <workItem from="1641981818280" duration="19717000" />
+      <workItem from="1642072582758" duration="4900000" />
+      <workItem from="1642081659169" duration="10176000" />
+      <workItem from="1642155013591" duration="12026000" />
+      <workItem from="1642171456784" duration="5548000" />
+      <workItem from="1642200023666" duration="75000" />
+      <workItem from="1642259888329" duration="3720000" />
+      <workItem from="1642327535838" duration="5560000" />
+      <workItem from="1642599164263" duration="2336000" />
+      <workItem from="1642622501732" duration="11000" />
+      <workItem from="1642622607444" duration="8000" />
+      <workItem from="1642697717151" duration="114000" />
+      <workItem from="1642756345384" duration="4611000" />
+      <workItem from="1642771277720" duration="16000" />
+      <workItem from="1643020469455" duration="670000" />
+      <workItem from="1643024869478" duration="4091000" />
+      <workItem from="1643101902000" duration="357000" />
+      <workItem from="1643102316131" duration="612000" />
+      <workItem from="1643363920678" duration="3548000" />
+      <workItem from="1643375682847" duration="7548000" />
+      <workItem from="1643480114533" duration="7074000" />
+      <workItem from="1643492908709" duration="1109000" />
+      <workItem from="1643539792430" duration="2515000" />
+      <workItem from="1643548302491" duration="7207000" />
+      <workItem from="1643578992889" duration="88000" />
+      <workItem from="1643613769620" duration="2269000" />
+      <workItem from="1643619022893" duration="9610000" />
+      <workItem from="1643630427041" duration="302000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
