@@ -6,6 +6,7 @@ import {createRouter, createWebHistory} from 'vue-router'  ;
 import Home from './page/home.vue'
 import About from './page/about.vue'
 import Contact from './page/contact.vue'
+import './registerServiceWorker'
 
 
 
